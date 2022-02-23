@@ -17,7 +17,10 @@ public class Main {
             int c = calc.devide.apply(a, b);
             calc.println.accept(c);
         } catch (ArithmeticException exception) {
-            System.out.println(exception.getMessage());
+            /*
+            * Принимаем меры при возникновении ошибки
+             */
+            exception.printStackTrace();
         }
     }
 }
