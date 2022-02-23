@@ -10,6 +10,6 @@
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
 1. [Работа с числами](https://github.com/ReinhardtDizel/jd-homeworks/tree/main/streams-ex1);
-2. [Перепись населения]().
+2. [Перепись населения](https://github.com/ReinhardtDizel/jd-homeworks/tree/main/streams-ex2).
 
 =======
