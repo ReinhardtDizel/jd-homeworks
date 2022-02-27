@@ -13,3 +13,11 @@
 2. [Перепись населения](https://github.com/ReinhardtDizel/jd-homeworks/tree/main/streams-ex2).
 
 =======
+
+# Домашнее задание к занятию 1.3 Потоки ввода-вывода. Работа с файлами. Сериализация
+
+1. [Установка](https://github.com/ReinhardtDizel/jd-homeworks/tree/main/files-ex1);	
+2. [Сохранение](https://github.com/ReinhardtDizel/jd-homeworks/tree/main/files-ex2);
+3. [Загрузка]() (со звездочкой *).
+
+=======
